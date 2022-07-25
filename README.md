@@ -1,13 +1,13 @@
 # Raspberry-Pi
 lineと連携させて撮影した画像を送信するやつ
 ## つかったもの
-*raspberry pi 3
-*pi camera
-*PIRモーションセンサ
-*python3
-*ngrok
-*line messaging
-*line notify
+- raspberry pi 3  
+- pi camera  
+- PIRモーションセンサ  
+- python3  
+- ngrok  
+- line messaging  
+- line notify  
 
 ## 全体の仕様的な
 ### line_picture.py
