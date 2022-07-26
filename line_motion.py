@@ -6,7 +6,6 @@ import time
 import cv2
 import os
 import datetime
-import time
 import numpy as np
 import requests,os
  
