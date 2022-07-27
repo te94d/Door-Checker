@@ -1,5 +1,8 @@
-# Raspberry-Pi
-lineと連携させて撮影した画像を送信するやつ
+# Door-checker
+raspberry piとlineを使用してドアを監視するシステム的やつ  
+- 鍵の状態を外出先からでもlineを通して知ることが出来る。
+- ドアが開いた際にその人を撮影しlineで通知する。
+ターミナルからline_motion.pyとline_picture.pyを同時に実行することで任意のタイミングとセンサが反応したタイミングで撮影した画像をlineで送信することが出来る。
 ## つかったもの
 - raspberry pi 3  
 - pi camera  
